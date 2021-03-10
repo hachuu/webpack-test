@@ -1,4 +1,7 @@
 
+# webpack 세팅
+- [참조](https://ideveloper2.tistory.com/m/75)
+
 # webpack 세팅시 에러
 1. babel 버전 에러
 ```
